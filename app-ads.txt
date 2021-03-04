@@ -1,2 +1,3 @@
 # lovely served by https://app-adstxt.dev/ -- free app-ads.txt hosting
 google.com, pub-9014855062697129, DIRECT, f08c47fec0942fa0
+google.com, pub-7924358400763233, DIRECT, f08c47fec0942fa0
